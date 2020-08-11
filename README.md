@@ -6,8 +6,6 @@
 
 [![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=LTLA)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/LTLA.gif?z=6)](https://github4life.herokuapp.com/LTLA)
-
 ## [Bioconductor](https://bioconductor.org) contributions
 
 ### As maintainer

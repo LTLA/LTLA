@@ -2,11 +2,12 @@
 
 ## GitHub statistics
 
-[![Aaron's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=LTLA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=LTLA)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Game of Life](https://github4life.herokuapp.com/LTLA.gif?z=6)](https://github4life.herokuapp.com/LTLA)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LTLA&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=LTLA" />
+</a>
 
 ## [Bioconductor](https://bioconductor.org) contributions
 

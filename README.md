@@ -32,6 +32,7 @@
 | [_scuttle_](https://github.com/LTLA/scuttle) | [![](http://bioconductor.org/shields/build/devel/bioc/scuttle.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/scuttle) | [![](http://bioconductor.org/shields/build/release/bioc/scuttle.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/scuttle) |
 | [_celldex_](https://github.com/LTLA/celldex) | [![](http://bioconductor.org/shields/build/devel/data-experiment/celldex.svg)](http://bioconductor.org/checkResults/devel/data-experiment-LATEST/celldex) | [![](http://bioconductor.org/shields/build/release/data-experiment/celldex.svg)](http://bioconductor.org/checkResults/release/data-experiment-LATEST/celldex) |
 | [_bluster_](https://github.com/LTLA/bluster) | [![](http://bioconductor.org/shields/build/devel/bioc/bluster.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/bluster) | [![](http://bioconductor.org/shields/build/release/bioc/bluster.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/bluster) |
+| [_rebook_](https://github.com/LTLA/rebook) | [![](http://bioconductor.org/shields/build/devel/bioc/rebook.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/rebook) | [![](http://bioconductor.org/shields/build/release/bioc/rebook.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/rebook) |
 
 ### As co-maintainer
 

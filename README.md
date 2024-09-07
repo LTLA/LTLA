@@ -58,6 +58,7 @@
 | [_chihaya_](https://github.com/LTLA/chihaya) | [![](http://bioconductor.org/shields/build/devel/bioc/chihaya.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/chihaya) | [![](http://bioconductor.org/shields/build/release/bioc/chihaya.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/chihaya) |
 | [_screenCounter_](https://github.com/crisprVerse/screenCounter) | [![](http://bioconductor.org/shields/build/devel/bioc/screenCounter.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/screenCounter) | [![](http://bioconductor.org/shields/build/release/bioc/screenCounter.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/screenCounter) |
 | [_gypsum_](https://github.com/ArtifactDB/gypsum) | [![](http://bioconductor.org/shields/build/devel/bioc/gypsum.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/gypsum) | [![](http://bioconductor.org/shields/build/release/bioc/gypsum.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/gypsum) |
+| [_assorthead_](https://github.com/LTLA/assorthead) | [![](http://bioconductor.org/shields/build/devel/bioc/assorthead.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/assorthead) | [![](http://bioconductor.org/shields/build/release/bioc/assorthead.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/assorthead) |
 
 ### As co-maintainer
 

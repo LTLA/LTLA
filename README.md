@@ -1,10 +1,4 @@
-![My typical day](https://data.whicdn.com/images/191120579/original.gif)
-
-## GitHub statistics
-
-[![Aaron's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=LTLA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=LTLA)](https://github.com/anuraghazra/github-readme-stats)
+![My typical day](https://raw.githubusercontent.com/LTLA/acceptable-anime-gifs/refs/heads/master/registry/12815_Shirokuma-Cafe/0001.gif)
 
 ## [Bioconductor](https://bioconductor.org) contributions
 

@@ -1,6 +1,6 @@
 ![My typical day](https://raw.githubusercontent.com/LTLA/acceptable-anime-gifs/refs/heads/master/registry/12815_Shirokuma-Cafe/0001.gif)
 
-## [Bioconductor](https://bioconductor.org) contributions
+## [R/Bioconductor](https://bioconductor.org) contributions
 
 ### As maintainer
 
@@ -11,7 +11,6 @@
 | [_InteractionSet_](https://github.com/LTLA/InteractionSet) | [![](http://bioconductor.org/shields/build/devel/bioc/InteractionSet.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/InteractionSet) |[![](http://bioconductor.org/shields/build/release/bioc/InteractionSet.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/InteractionSet) |
 | [_scran_](https://github.com/MarioniLab/scran) | [![](http://bioconductor.org/shields/build/devel/bioc/scran.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/scran) | [![](http://bioconductor.org/shields/build/release/bioc/scran.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/scran) |
 | [_beachmat_](https://github.com/LTLA/beachmat) | [![](http://bioconductor.org/shields/build/devel/bioc/beachmat.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/beachmat) | [![](http://bioconductor.org/shields/build/release/bioc/beachmat.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/beachmat) |
-| [_DropletUtils_](https://github.com/MarioniLab/DropletUtils) | [![](http://bioconductor.org/shields/build/devel/bioc/DropletUtils.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/DropletUtils) | [![](http://bioconductor.org/shields/build/release/bioc/DropletUtils.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/DropletUtils) |
 | [_cydar_](https://github.com/MarioniLab/cydar) | [![](http://bioconductor.org/shields/build/devel/bioc/cydar.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/cydar) | [![](http://bioconductor.org/shields/build/release/bioc/cydar.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/cydar) |
 | [_batchelor_](https://github.com/LTLA/batchelor) | [![](http://bioconductor.org/shields/build/devel/bioc/batchelor.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/batchelor) | [![](http://bioconductor.org/shields/build/release/bioc/batchelor.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/batchelor) |
 | [_BiocNeighbors_](https://github.com/LTLA/BiocNeighbors) | [![](http://bioconductor.org/shields/build/devel/bioc/BiocNeighbors.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/BiocNeighbors) | [![](http://bioconductor.org/shields/build/release/bioc/BiocNeighbors.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/BiocNeighbors) |
@@ -65,16 +64,4 @@
 | [_iSEE_](https://github.com/csoneson/iSEE) | [![](http://bioconductor.org/shields/build/devel/bioc/iSEE.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/iSEE) | [![](http://bioconductor.org/shields/build/release/bioc/iSEE.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/iSEE) |
 | [_iSEEu_](https://github.com/csoneson/iSEEu) | [![](http://bioconductor.org/shields/build/devel/bioc/iSEEu.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/iSEEu) | [![](http://bioconductor.org/shields/build/release/bioc/iSEEu.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/iSEEu) |
 | [_TSCAN_](https://github.com/LTLA/TSCAN) | [![](http://bioconductor.org/shields/build/devel/bioc/TSCAN.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/TSCAN) | [![](http://bioconductor.org/shields/build/release/bioc/TSCAN.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/TSCAN) |
-
-### Other packages I'm involved in
-
-| Package | BioC-devel | BioC-release |
-|:----------------:|:----------------:|:----------------:|
-| [_TENxBrainData_](https://github.com/Bioconductor/TENxBrainData) | [![](http://bioconductor.org/shields/build/devel/data-experiment/TENxBrainData.svg)](http://bioconductor.org/checkResults/devel/data-experiment-LATEST/TENxBrainData) | [![](http://bioconductor.org/shields/build/release/data-experiment/TENxBrainData.svg)](http://bioconductor.org/checkResults/release/data-experiment-LATEST/TENxBrainData) |
-| [_scDblFinder_](https://github.com/plger/scDblFinder) | [![](http://bioconductor.org/shields/build/devel/bioc/scDblFinder.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/scDblFinder) | [![](http://bioconductor.org/shields/build/release/bioc/scDblFinder.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/scDblFinder) |
-| [_zellkonverter_](https://github.com/theislab/zellkonverter) | [![](http://bioconductor.org/shields/build/devel/bioc/zellkonverter.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/zellkonverter) | [![](http://bioconductor.org/shields/build/release/bioc/zellkonverter.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/zellkonverter) |
-| [_velociraptor_](https://github.com/kevinrue/velociraptor) | [![](http://bioconductor.org/shields/build/devel/bioc/velociraptor.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/velociraptor) | [![](http://bioconductor.org/shields/build/release/bioc/velociraptor.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/velociraptor) |
-| [_snifter_](https://github.com/alanocallaghan/snifter) | [![](http://bioconductor.org/shields/build/devel/bioc/snifter.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/snifter) | [![](http://bioconductor.org/shields/build/release/bioc/snifter.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/snifter) |
-| [_PCAtools_](https://github.com/kevinblighe/PCAtools) | [![](http://bioconductor.org/shields/build/devel/bioc/PCAtools.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/PCAtools) | [![](http://bioconductor.org/shields/build/release/bioc/PCAtools.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/PCAtools) |
-| [_DelayedMatrixStats_](https://github.com/PeteHaitch/DelayedMatrixStats) | [![](http://bioconductor.org/shields/build/devel/bioc/DelayedMatrixStats.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/DelayedMatrixStats) | [![](http://bioconductor.org/shields/build/release/bioc/DelayedMatrixStats.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/DelayedMatrixStats) |
-
+| [_DropletUtils_](https://github.com/MarioniLab/DropletUtils) | [![](http://bioconductor.org/shields/build/devel/bioc/DropletUtils.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/DropletUtils) | [![](http://bioconductor.org/shields/build/release/bioc/DropletUtils.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/DropletUtils) |

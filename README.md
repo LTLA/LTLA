@@ -59,6 +59,7 @@
 | [_screenCounter_](https://github.com/crisprVerse/screenCounter) | [![](http://bioconductor.org/shields/build/devel/bioc/screenCounter.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/screenCounter) | [![](http://bioconductor.org/shields/build/release/bioc/screenCounter.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/screenCounter) |
 | [_gypsum_](https://github.com/ArtifactDB/gypsum) | [![](http://bioconductor.org/shields/build/devel/bioc/gypsum.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/gypsum) | [![](http://bioconductor.org/shields/build/release/bioc/gypsum.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/gypsum) |
 | [_assorthead_](https://github.com/LTLA/assorthead) | [![](http://bioconductor.org/shields/build/devel/bioc/assorthead.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/assorthead) | [![](http://bioconductor.org/shields/build/release/bioc/assorthead.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/assorthead) |
+| [_scrapper_](https://github.com/libscran/scrapper) | [![](http://bioconductor.org/shields/build/devel/bioc/scrapper.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/scrapper) | [![](http://bioconductor.org/shields/build/release/bioc/scrapper.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/scrapper) |
 
 ### As co-maintainer
 

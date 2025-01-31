@@ -54,6 +54,8 @@
 | [_beachmat.hdf5_](https://github.com/tatami-inc/beachmat.hdf5) | [![](http://bioconductor.org/shields/build/devel/bioc/beachmat.hdf5.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/beachmat.hdf5) | [![](http://bioconductor.org/shields/build/release/bioc/beachmat.hdf5.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/beachmat.hdf5) |
 | [_assorthead_](https://github.com/LTLA/assorthead) | [![](http://bioconductor.org/shields/build/devel/bioc/assorthead.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/assorthead) | [![](http://bioconductor.org/shields/build/release/bioc/assorthead.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/assorthead) |
 | [_scrapper_](https://github.com/libscran/scrapper) | [![](http://bioconductor.org/shields/build/devel/bioc/scrapper.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/scrapper) | [![](http://bioconductor.org/shields/build/release/bioc/scrapper.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/scrapper) |
+| [_beachmat.tiledb_](https://github.com/tatami-inc/beachmat.tiledb) | [![](http://bioconductor.org/shields/build/devel/bioc/beachmat.tiledb.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/beachmat.tiledb) | [![](http://bioconductor.org/shields/build/release/bioc/beachmat.tiledb.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/beachmat.tiledb) |
+| [_biocmake_](https://github.com/LTLA/biocmake) | [![](http://bioconductor.org/shields/build/devel/bioc/biocmake.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/biocmake) | [![](http://bioconductor.org/shields/build/release/bioc/biocmake.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/biocmake) |
 
 ### As co-maintainer
 
